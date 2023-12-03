@@ -4,6 +4,7 @@
     "cheerio": "^1.0.0-rc.12",
     "fs": "^0.0.1-security",
     "pretty": "^2.0.0",
-    "puppeteer": "^21.5.2"
+    "puppeteer": "^21.5.2",
+    "request-promise": "^4.2.6"
   }
 }
